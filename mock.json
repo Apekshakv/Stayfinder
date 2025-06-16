@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Marina Grand Hotel",
+    "city": "Chennai",
+    "rating": 4.5,
+    "price": "₹6,500 per night",
+    "star": "5-Star",
+    "address": "No. 12, Marina Beach Road, Chennai - 600005",
+    "image": "https://th.bing.com/th/id/OIP.biotKKPrqiZTglC4_cPB-QAAAA?rs=1&pid=ImgDetMain&cb=idpwebp1&o=7&rm=3",
+    "description": "Located right on Marina Beach, this luxurious 5-star hotel offers sea-view rooms, an infinity pool, and world-class hospitality."
+  },
+  {
+    "name": "Bay View Inn",
+    "city": "Chennai",
+    "rating": 4.1,
+    "price": "₹4,800 per night",
+    "star": "4-Star",
+    "address": "45 ECR Road, Besant Nagar, Chennai - 600090",
+    "image": "https://th.bing.com/th/id/OIP.dPounHbEU_YSJHlnsvgK6wHaFj?w=196&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3c",
+    "description": "Nestled along ECR with a beautiful bay view, Bay View Inn is perfect for a peaceful coastal retreat."
+  },
+  {
+    "name": "The Orchid Stay",
+    "city": "Chennai",
+    "rating": 3.9,
+    "price": "₹3,600 per night",
+    "star": "3-Star",
+    "address": "Plot 101, Velachery Main Road, Chennai - 600042",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+    "description": "Comfortable and budget-friendly, The Orchid Stay is ideal for business travelers and families alike."
+  },
+  {
+    "name": "Palm Tree Residency",
+    "city": "Chennai",
+    "rating": 4.3,
+    "price": "₹5,200 per night",
+    "star": "4-Star",
+    "address": "No. 2, GST Road, Meenambakkam, Chennai - 600027",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Just minutes from the airport, Palm Tree Residency blends convenience with quality service."
+  },
+  {
+    "name": "Le Gardenia Hotel",
+    "city": "Chennai",
+    "rating": 3.8,
+    "price": "₹3,950 per night",
+    "star": "3-Star",
+    "address": "18, Anna Nagar Main Road, Chennai - 600040",
+    "image": "https://www.bing.com/th/id/OLC.d5VF3LfJjjtRzw480x360?w=95&h=95&c=8&rs=1&qlt=90&r=0&o=6&dpr=1.3&pid=3.1&rm=2",
+    "description": "Located in the bustling Anna Nagar, this hotel offers comfort and accessibility to major landmarks."
+  },
+  {
+    "name": "Sunset Pavilion",
+    "city": "Chennai",
+    "rating": 4.6,
+    "price": "₹7,300 per night",
+    "star": "5-Star",
+    "address": "3rd Avenue, Thiruvanmiyur, Chennai - 600041",
+    "image": "https://th.bing.com/th/id/OIP.XBHt57sdRQVIGOGLcB8E4gHaE8?w=207&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Offering breathtaking sunset views over the Bay of Bengal, this hotel is a favorite for romantic getaways."
+  },
+  {
+    "name": "Beach Bay Retreat",
+    "city": "Chennai",
+    "rating": 4.2,
+    "price": "₹5,600 per night",
+    "star": "4-Star",
+    "address": "Kottivakkam Beach Road, Chennai - 600096",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "Escape to peace and sand at Beach Bay Retreat, offering coastal charm and modern amenities."
+  },
+  {
+    "name": "Elite Residency",
+    "city": "Chennai",
+    "rating": 3.7,
+    "price": "₹3,300 per night",
+    "star": "3-Star",
+    "address": "57, T Nagar High Road, Chennai - 600017",
+    "image": "https://www.bing.com/th?id=OLC.xMi%2fzsw9MiQxMA480x360&w=212&h=180&c=8&rs=1&qlt=90&r=0&o=6&dpr=1.3&pid=3.1&rm=2",
+    "description": "In the heart of shopping hub T Nagar, Elite Residency is a smart choice for shopaholics and business visitors."
+  },
+  {
+    "name": "Urban Comfort Inn",
+    "city": "Chennai",
+    "rating": 4.0,
+    "price": "₹4,100 per night",
+    "star": "4-Star",
+    "address": "Tambaram Main Road, Chennai - 600045",
+    "image": "https://th.bing.com/th/id/OIP.J3NbHZ698PoTb3cAkINa-gHaE7?w=204&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Blending urban luxury with comfort, this hotel is great for business stays in South Chennai."
+  },
+  {
+    "name": "Crescent Suites",
+    "city": "Chennai",
+    "rating": 4.4,
+    "price": "₹6,000 per night",
+    "star": "4-Star",
+    "address": "OMR, Sholinganallur, Chennai - 600119",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Located on OMR, Crescent Suites caters well to IT professionals and families with stylish rooms and rooftop dining."
+  },
+  {
+    "name": "Horizon Inn",
+    "city": "Chennai",
+    "rating": 4.1,
+    "price": "₹4,200 per night",
+    "star": "4-Star",
+    "address": "10, Egmore High Road, Chennai - 600008",
+    "image": "https://th.bing.com/th/id/OIP.ohMO89ug_GK5u8DRPmE7ygHaE-?w=242&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Horizon Inn offers a cozy, premium stay in Central Chennai with easy access to transportation hubs."
+  },
+  {
+    "name": "Green Leaf Hotel",
+    "city": "Chennai",
+    "rating": 3.9,
+    "price": "₹3,700 per night",
+    "star": "3-Star",
+    "address": "Avadi Poonamallee Road, Chennai - 600056",
+    "image": "https://th.bing.com/th/id/OIP.3Y3fft6eBSmNA83JttHQHwHaE8?w=207&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Green Leaf offers a green and quiet atmosphere, ideal for budget-conscious travelers and families."
+  },
+  {
+    "name": "Harbor Lights Residency",
+    "city": "Chennai",
+    "rating": 4.7,
+    "price": "₹8,100 per night",
+    "star": "5-Star",
+    "address": "Royapuram Beach Lane, Chennai - 600013",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "description": "One of the top luxury stays in North Chennai, Harbor Lights features beachfront dining and elegant suites."
+  },
+  {
+    "name": "Tropical Pearl Hotel",
+    "city": "Chennai",
+    "rating": 4.0,
+    "price": "₹4,300 per night",
+    "star": "4-Star",
+    "address": "Mogappair West, Chennai - 600037",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+    "description": "Tropical Pearl offers an island-inspired stay with modern amenities in a suburban setting."
+  },
+  {
+    "name": "Ocean View Towers",
+    "city": "Chennai",
+    "rating": 4.9,
+    "price": "₹9,200 per night",
+    "star": "5-Star",
+    "address": "Beach Road, Neelankarai, Chennai - 600115",
+    "image": "https://th.bing.com/th/id/OIP.Tf1Hm_NgXgGdd3dDq0FNxQHaFj?w=265&h=199&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "A luxury beachfront tower with panoramic sea views, fine dining, and spa services—perfect for high-end travelers."
+  }
+]
